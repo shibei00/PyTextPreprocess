@@ -13,5 +13,3 @@ The preprocessing of Chinese text includes:
 1. Segment via Jieba package.
 2. Remove punctuations.
 3. Remove stopwords.
-
-The function en_str_preprocess and ch_str_preprocess are vectorized for Numpy.
