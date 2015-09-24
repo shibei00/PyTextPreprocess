@@ -9,6 +9,7 @@ The preprocessing of English text includes:
 4. Stem words.
 
 The preprocessing of Chinese text includes:
+
 1. Segment via Jieba package.
 2. Remove punctuations.
 3. Remove stopwords.
